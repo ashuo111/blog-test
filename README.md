@@ -18,9 +18,11 @@
 
 学过的编程语言 HTML CSS JavaScript。
 
-这是一行代码
+一行代码
 
-    background: blue ;
+    这是`一行代码`
+
+
     
 
 ```JavaScript
